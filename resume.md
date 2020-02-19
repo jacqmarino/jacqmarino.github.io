@@ -10,8 +10,8 @@
 <h5> 373 Ocean Terrace, Staten Island NY 10301 </h5>
 <h5> jnm101@miami.edu </h5>
 <h5> 973 908 1014 </h5>
-<h5><a href="http:///https://www.jacqmarino.com">Portfolio</a></h5>
-<h5><a href="http:///https://www.linkedin.com/in/jacqmarino/">Linkedin</a></h5>
+<h5><a href="https://www.jacqmarino.com">Portfolio</a></h5>
+<h5><a href="https://www.linkedin.com/in/jacqmarino/">Linkedin</a></h5>
 
 <img src="Marino headshot.jpg" alt="Jacqueline">
 
