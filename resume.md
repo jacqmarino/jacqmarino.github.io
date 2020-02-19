@@ -1,5 +1,3 @@
-<!DOCTYPEhtml>
-
 <html>
 
 <head>
