@@ -85,4 +85,6 @@
 
 </html>
 
-
+<footer>
+  All rights belong to Jacqueline Marino 2020
+  </footer>
