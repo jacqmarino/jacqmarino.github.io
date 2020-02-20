@@ -16,11 +16,6 @@
 </tr>
 </table>
 
-
-<h5> 373 Ocean Terrace, Staten Island NY 10301 </h5>
-<h5> jnm101@miami.edu </h5>
-<h5> 973 908 1014 </h5>
-
 <nav>
   <h5><a href="resume.md">Home</a></h5>
 <h5><a href="https://www.jacqmarino.com">Portfolio</a></h5>
