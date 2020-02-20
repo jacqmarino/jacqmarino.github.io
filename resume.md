@@ -5,6 +5,7 @@
 </head>
 
 <body>
+  <main>
 <h1>Jacqueline Marino </h1>
 
 <h5> 373 Ocean Terrace, Staten Island NY 10301 </h5>
@@ -84,11 +85,11 @@
 <li>Coding</li>
 </ul>
 
-
-</body>
-
-</html>
+</main>
 
 <footer>
   <p> All rights belong to Jacqueline Marino 2020. </p>
   </footer>
+  </body>
+
+</html>
