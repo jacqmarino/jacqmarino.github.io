@@ -88,7 +88,7 @@
 </main>
 
 <footer>
-  <p> All rights belong to Jacqueline Marino 2020. </p>
+  <h6> All rights belong to Jacqueline Marino 2020. </h6>
   </footer>
   </body>
 
