@@ -14,6 +14,9 @@
 	<th>jnm101@miami.edu</th>   
 	<th>973 908 1014</th>
 </tr>
+</table>
+
+
 <h5> 373 Ocean Terrace, Staten Island NY 10301 </h5>
 <h5> jnm101@miami.edu </h5>
 <h5> 973 908 1014 </h5>
