@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title> Jacqueline Marino </title>
+
 </head>
 
 <body>
