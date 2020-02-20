@@ -1,11 +1,11 @@
 <html>
 
 <head>
-
+	<title> Jacqueline Marino </title>
 </head>
 
 <body>
-  <main>
+  <header>
 <h1>Jacqueline Marino </h1>
 
 <table>
@@ -21,7 +21,8 @@
 <h5><a href="https://www.jacqmarino.com">Portfolio</a></h5>
 <h5><a href="https://www.linkedin.com/in/jacqmarino/">Linkedin</a></h5>
   </nav>
-
+  </header>
+<main>
 <img src="Marino-headshot1.jpg" alt="Jacqueline">
 
 <h4> Education </h4>
