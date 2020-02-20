@@ -13,7 +13,7 @@
 <h5><a href="https://www.jacqmarino.com">Portfolio</a></h5>
 <h5><a href="https://www.linkedin.com/in/jacqmarino/">Linkedin</a></h5>
 
-<img src="Marino headshot.jpg" alt="Jacqueline">
+<img src="Marino headshot1.jpg" alt="Jacqueline">
 
 <h4> Education </h4>
 <h5> University of Miami </h5>
